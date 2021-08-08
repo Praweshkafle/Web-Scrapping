@@ -1,0 +1,15 @@
+C:\Users\PraweshRajKhapangi\source\repos\WebScrapping\WebScrapping\obj\Debug\netcoreapp3.1\WebScrapping.csproj.AssemblyReference.cache
+C:\Users\PraweshRajKhapangi\source\repos\WebScrapping\WebScrapping\obj\Debug\netcoreapp3.1\WebScrapping.AssemblyInfoInputs.cache
+C:\Users\PraweshRajKhapangi\source\repos\WebScrapping\WebScrapping\obj\Debug\netcoreapp3.1\WebScrapping.AssemblyInfo.cs
+C:\Users\PraweshRajKhapangi\source\repos\WebScrapping\WebScrapping\obj\Debug\netcoreapp3.1\WebScrapping.csproj.CoreCompileInputs.cache
+C:\Users\PraweshRajKhapangi\source\repos\WebScrapping\WebScrapping\bin\Debug\netcoreapp3.1\WebScrapping.exe
+C:\Users\PraweshRajKhapangi\source\repos\WebScrapping\WebScrapping\bin\Debug\netcoreapp3.1\WebScrapping.deps.json
+C:\Users\PraweshRajKhapangi\source\repos\WebScrapping\WebScrapping\bin\Debug\netcoreapp3.1\WebScrapping.runtimeconfig.json
+C:\Users\PraweshRajKhapangi\source\repos\WebScrapping\WebScrapping\bin\Debug\netcoreapp3.1\WebScrapping.runtimeconfig.dev.json
+C:\Users\PraweshRajKhapangi\source\repos\WebScrapping\WebScrapping\bin\Debug\netcoreapp3.1\WebScrapping.dll
+C:\Users\PraweshRajKhapangi\source\repos\WebScrapping\WebScrapping\bin\Debug\netcoreapp3.1\WebScrapping.pdb
+C:\Users\PraweshRajKhapangi\source\repos\WebScrapping\WebScrapping\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\PraweshRajKhapangi\source\repos\WebScrapping\WebScrapping\obj\Debug\netcoreapp3.1\WebScrapping.csproj.CopyComplete
+C:\Users\PraweshRajKhapangi\source\repos\WebScrapping\WebScrapping\obj\Debug\netcoreapp3.1\WebScrapping.dll
+C:\Users\PraweshRajKhapangi\source\repos\WebScrapping\WebScrapping\obj\Debug\netcoreapp3.1\WebScrapping.pdb
+C:\Users\PraweshRajKhapangi\source\repos\WebScrapping\WebScrapping\obj\Debug\netcoreapp3.1\WebScrapping.genruntimeconfig.cache

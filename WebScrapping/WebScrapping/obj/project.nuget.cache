@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "o4eAYaG57qNhu8/eUD9JSsZprQQEtKyu6Z0VwW8lmQ0/CpLOtsXSeVqcATLgKfodKoz6Aj3tPHVBKoX8DLm2eQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PraweshRajKhapangi\\source\\repos\\WebScrapping\\WebScrapping\\WebScrapping.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PraweshRajKhapangi\\.nuget\\packages\\htmlagilitypack\\1.11.34\\htmlagilitypack.1.11.34.nupkg.sha512"
+  ],
+  "logs": []
+}
